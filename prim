@@ -16,8 +16,11 @@ public class Prim {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    
+        // Infinity variable equals 10000.
         final int INF = 10000;
-
+        
+        // declare and initialize matrix
         int[][] Matrix = {
             // A  B   C    D    E    F    G   H   I
             // a
